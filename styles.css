@@ -49,6 +49,7 @@ body {
 .placeholder {
   width: 150px;
   height: 66px;
+  border-radius: 20px;
 }
 
 .start {
@@ -68,4 +69,9 @@ body {
 }
 .hide{
   display: none;
+}
+
+.hovered{
+  background-color: lightsalmon;
+  opacity: .2;
 }
